@@ -18,5 +18,6 @@ echo "║╚═╣╔╗║║║║║║─║║╔╗║╚═╣╔╗╣�
 echo "╚══╩╝╚╩╩╩╝╚╝─╚╩╝╚╩══╩╝╚╩══╩╝╚══╝"
 sudo apt install python3
 sudo apt install python
+sudo apt install firefox
 chmod +x camhackers.py
 echo "finish!"
