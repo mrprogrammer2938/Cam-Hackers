@@ -1,9 +1,9 @@
 # cam-Hackers
-This code write by Ms.nope
+This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
 **installing**
 ```
-git clone https://github.com/msprogrammer2938/cam-Hackers
+git clone https://github.com/mrprogrammer2938/Cam-Hackers
 
 cd cam-Hackers
 
@@ -13,5 +13,5 @@ python3 camhackers.py
 
 ```
 
-#### [Ms.nope](https://github.com/msprogrammer2938) Account...
+#### [Mr.nope](https://github.com/mrprogrammer2938) Account...
 [Instagram](https://instagram.com/programmer2938)
