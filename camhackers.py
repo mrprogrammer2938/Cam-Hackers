@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# The code write by (ms.nope)
+# The code write by (Mr.nope)
 import os
 import time
 # color
