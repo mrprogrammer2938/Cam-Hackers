@@ -1,4 +1,4 @@
-# cam-Hackers
+# Cam-Hackers
 This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
 **installing**
